@@ -10,6 +10,9 @@
   date: [2020 - 2025],
   location: [Lyon & Paris, France],
   logo: image("../assets/logos/ece.svg"),
-  description: [Formation axée sur le cloud (AWS, DevOps), l'IA, les réseaux, et la sécurité. Projets pratiques en équipe sur des cas concrets d'architecture cloud et de développement logiciel.],
+  description: list(
+  [Formation axée sur le cloud (AWS, DevOps), les données, l'IA, les réseaux, et la sécurité.],
+  [Projets pratiques en équipe sur des cas concrets d'architecture cloud et de développement logiciel, réalisés en méthode agile.],
+  ),
 )
 

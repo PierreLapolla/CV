@@ -35,5 +35,5 @@
   date: [Jan. 2023 - Fév. 2023],
   location: [Lyon, France],
   logo: image("../assets/logos/arkema.svg"),
-  description: [Mise en place d'une solution de gestion de données industrielles via AWS, incluant la collecte, le stockage et l'analyse de données de capteurs en temps réel.],
+  description: list([Mise en place d'une solution de gestion de données industrielles via AWS, incluant la collecte, le stockage et l'analyse de données de capteurs en temps réel.],),
 )

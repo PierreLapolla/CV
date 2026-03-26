@@ -9,22 +9,28 @@
   info: [Français (natif) #h-bar() Anglais (C1 TOEIC 945/990)],
 )
 
+
 #cv-skill(
-  type: [Cloud & DevOps],
-  info: [AWS, Terraform, CI/CD, GitHub, GitLab, Docker, Kubernetes],
+  type: [Langages],
+  info: [Python #h-bar() TypeScript #h-bar() Java #h-bar() C/C++],
 )
 
 #cv-skill(
-  type: [Développement],
-  info: [Python (FastAPI, NumPy, PyTorch, Polars) #h-bar() TypeScript #h-bar() Java #h-bar() C/C++],
+  type: [Frameworks],
+  info: [FastAPI #h-bar() NumPy #h-bar() PyTorch #h-bar() Polars #h-bar() Next.js],
 )
 
 #cv-skill(
   type: [Outils],
-  info: [Git, Linux, Raspberry Pi],
+  info: [Git #h-bar() Linux #h-bar() Docker #h-bar() GitHub #h-bar() GitLab],
+)
+
+#cv-skill(
+  type: [Cloud & DevOps],
+  info: [AWS #h-bar() Terraform #h-bar() Kubernetes #h-bar() CI/CD],
 )
 
 #cv-skill(
   type: [Centres d'intérêt],
-  info: [Cinéma #h-bar() Jeux de société #h-bar() Jeux vidéo #h-bar() Musique],
+  info: [Cinéma #h-bar() Jeux de société #h-bar() Jeux vidéo #h-bar() Musique #h-bar() Programmation],
 )

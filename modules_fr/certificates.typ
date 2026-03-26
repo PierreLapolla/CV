@@ -9,3 +9,9 @@
   title: [AWS Certified Cloud Practitioner],
   issuer: [Amazon Web Services (AWS)],
 )
+
+#cv-honor(
+  date: [2023],
+  title: [Python for Data Analysis],
+  issuer: [DataScientest],
+)

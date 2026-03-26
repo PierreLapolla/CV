@@ -106,7 +106,7 @@ language = "fr"
             link = "https://www.credly.com/users/pierre-lapolla"
 
 [lang.fr]
-    header_quote = "Ingénieur cloud certifié AWS, avec une expertise en DevOps, CI/CD, et développement logiciel. Expérience pratique en déploiement de pipelines CI/CD (GitLab, Terraform), collecte de données IoT, et intégration de solutions IA. Recherche un premier emploi pour contribuer à des projets stimulants et innovants."
+    header_quote = "Ingénieur cloud certifié AWS, avec une expertise en DevOps, CI/CD, et développement logiciel. Recherche un premier emploi pour contribuer à des projets stimulants et innovants."
     cv_footer = "Curriculum vitae"
     letter_footer = "Lettre de motivation"
 
