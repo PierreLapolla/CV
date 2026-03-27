@@ -15,3 +15,9 @@
   title: [Python for Data Analysis],
   issuer: [DataScientest],
 )
+
+#cv-honor(
+  date: [2023],
+  title: [TOEIC, 945/990 (C1)],
+  issuer: [ETS Global],
+)

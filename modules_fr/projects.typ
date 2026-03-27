@@ -10,7 +10,9 @@
   date: [2023 - 2024],
   location: [Paris, France],
   logo: image("../assets/logos/arece.jpeg"),
-  description: list([Développement d'un algorithme de deep learning pour la prédiction de trajectoires optimales dans le cadre de la compétition Formula Student. Utilisation de Python, PyTorch, et techniques de deep learning.],),
+  description: list(
+  [Développement d'un algorithme de deep learning pour la prédiction de trajectoires optimales d'une voiture autonome dans le cadre de la compétition Formula Student. Utilisation de Python, PyTorch, et techniques de deep learning.],
+  ),
 )
 
 #cv-entry(

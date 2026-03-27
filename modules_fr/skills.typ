@@ -6,7 +6,7 @@
 
 #cv-skill(
   type: [Langues],
-  info: [Français (natif) #h-bar() Anglais (C1 TOEIC 945/990)],
+  info: [Français #h-bar() Anglais],
 )
 
 
@@ -32,5 +32,5 @@
 
 #cv-skill(
   type: [Centres d'intérêt],
-  info: [Cinéma #h-bar() Jeux de société #h-bar() Jeux vidéo #h-bar() Musique #h-bar() Programmation],
+  info: [Cinéma #h-bar() Jeux de société #h-bar() Jeux vidéo #h-bar() Musique #h-bar() Développement logiciel],
 )
